@@ -1,13 +1,13 @@
 /* Navbar container styles */
 nav {
-    background-color: rgb(3, 214, 252) !important; 
+    background: linear-gradient(45deg, rgba(0, 24, 61), rgba(0, 97, 187), rgba(0, 42, 81)) !important;
     color: black !important;
 }
 
 /* Ensure the nav links are positioned correctly */
 .uk-navbar-nav > li > a {
     position: relative;
-    color: #000; /* Default link color */
+    color: #fff; /* Default link color */
     text-decoration: none;
     padding-bottom: 5px; /* Add space for the underline */
 }
@@ -19,10 +19,10 @@ nav {
     left: 0;
     bottom: 0; /* Position it flush with the bottom of the link */
     width: 0;
-    height: 2px; /* Thickness of the underline */
-    background-color: #000e5c; /* Color of the underline */
+    height: 3px; /* Thickness of the underline */
+    background-color: #ffffff; /* Color of the underline */
     transition: width 0.3s ease, background-color 0.3s ease;
-    color: white !important;
+    color: rgb(240, 240, 240) !important;
 }
 
 /* Hover state for the underline */
