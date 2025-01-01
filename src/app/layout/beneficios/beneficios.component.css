@@ -11,6 +11,17 @@
     cursor: pointer !important;
 }
 
+.texto-azul{
+    color: rgb(18, 72, 130) !important;
+    font-weight: 700;
+
+}
+
+
+.icon-blue {
+    color: blue !important;
+}
+
 .fa-solid{
     color: rgb(18, 72, 130);
 }
