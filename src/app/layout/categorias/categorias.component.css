@@ -55,3 +55,8 @@
 .icone{
     color: white !important;
 }
+
+
+.linha {
+    line-height: 25px;
+}
