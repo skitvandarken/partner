@@ -4,7 +4,6 @@
     position: fixed;
     top: 0;
     width: 100%;
-    background-color:    rgba(0, 97, 187);/* Background color for the navbar */
     ; /* Background color for the navbar */
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for better visibility */
     display: flex;
